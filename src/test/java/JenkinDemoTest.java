@@ -14,9 +14,6 @@ public class JenkinDemoTest {
 	@Test
 	public static void jenkTest()
 	{
-
-	//public static void main(String[] args) {
-	
 	WebDriverManager.chromedriver().setup();
 	WebDriver driver = new ChromeDriver();
 	

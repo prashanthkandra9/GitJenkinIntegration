@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15574" started-at="2022-10-31T14:11:23 IST" finished-at="2022-10-31T14:11:38 IST">
+  <suite name="Default suite" duration-ms="16729" started-at="2022-11-01T09:16:16 IST" finished-at="2022-11-01T09:16:33 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15574" started-at="2022-10-31T14:11:23 IST" finished-at="2022-10-31T14:11:38 IST">
+    <test name="Default test" duration-ms="16729" started-at="2022-11-01T09:16:16 IST" finished-at="2022-11-01T09:16:33 IST">
       <class name="JenkinDemoTest">
-        <test-method status="PASS" signature="jenkTest()[pri:0, instance:JenkinDemoTest@74ad1f1f]" name="jenkTest" duration-ms="15454" started-at="2022-10-31T14:11:23 IST" finished-at="2022-10-31T14:11:38 IST">
+        <test-method status="PASS" signature="jenkTest()[pri:0, instance:JenkinDemoTest@462d5aee]" name="jenkTest" duration-ms="16648" started-at="2022-11-01T09:16:16 IST" finished-at="2022-11-01T09:16:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jenkTest -->
